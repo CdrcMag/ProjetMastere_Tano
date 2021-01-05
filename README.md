@@ -9,4 +9,4 @@ Cédric Maggay - Ludus Académie - Strasbourg - 2020/2022
 
 ## Structure du repository
 
-![Structure du repository](/Images/Schema_Structure.png)
+![Structure du repository](Images/Schema_Structure.png)
