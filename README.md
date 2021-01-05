@@ -3,6 +3,10 @@
 Cédric Maggay - Ludus Académie - Strasbourg - 2020/2022
 
 ## Dans ce repository ..
-* Le package Unity 
-* Le jeu
-* Lien vers le site de documentation
+* Une branche contenant le package Unity 
+* Une branche contenant le jeu
+* Une branche contenant le lien vers le site de documentation, ainsi que son code.
+
+## Structure du repository
+
+![Structure du repository](/Images/Schema_Structure.png)
